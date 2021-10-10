@@ -45,4 +45,3 @@ class Solution
         }
     }
 }
-// Write your own driver or input code.
